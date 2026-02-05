@@ -8,3 +8,4 @@
 | overprint_white_check.jsx | illustrator | オーバープリントがかかっている白色のオブジェクトの存在チェック |
 | del_obj_name.jsx | illustrator | 選択したオブジェクトの名前を削除する |
 | check_order.jsx | illustrator | 選択したテキストオブジェクトが連番になっているかチェックする（数字、アルファベット、カタカナ） |
+| sort_obj_onlayer.jsx | illustrator | 選択したオブジェクトの「レイヤー上での表示順」をソートする |
