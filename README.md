@@ -7,3 +7,4 @@
 | makePDF.jsx | illustrator | ai→pdfへの変換。プリセット＆アートボードサイズ設定可 |
 | overprint_white_check.jsx | illustrator | オーバープリントがかかっている白色のオブジェクトの存在チェック |
 | del_obj_name.jsx | illustrator | 選択したオブジェクトの名前を削除する |
+| check_order.jsx | illustrator | 選択したテキストオブジェクトが連番になっているかチェックする（数字、アルファベット、カタカナ） |
